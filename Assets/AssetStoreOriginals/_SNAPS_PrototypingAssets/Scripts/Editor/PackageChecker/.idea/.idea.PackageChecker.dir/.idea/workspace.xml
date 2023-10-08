@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2bd878c-d58c-4fd0-9c82-ec88a604b302" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../../Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../Temp/FSTimeGet-d552d849d1ff749b99e33b3c5f4c3d3e" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../Temp/FSTimeGet-d552d849d1ff749b99e33b3c5f4c3d3e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CnHyvMh3dlbskfpdkuyrQrMko3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2bd878c-d58c-4fd0-9c82-ec88a604b302" name="Changes" comment="" />
+      <created>1659431689352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659431689352</updated>
+      <workItem from="1659431697324" duration="54000" />
+      <workItem from="1659431768864" duration="762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
